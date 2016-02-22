@@ -33,6 +33,7 @@ nav ul li{
     clear: right;
     position: relative;
     top: -90px;
+    left: -40px;
     border: solid;
     padding-left: 5px;
     background-color: gray;
@@ -40,13 +41,22 @@ nav ul li{
 
 }
 
+main {
+    position: relative;
+    top: -60px;
+}
+
 main div img{
     float: left;
     margin-right: 10px;
+    border: groove;
+    border-color: black;
 }
 
 
 footer {
+    position: relative;
+    top: -50px;
     margin: 2px 2px 2px 2px;
     padding: 2px 2px 2px 2px;
     text-align: center;
