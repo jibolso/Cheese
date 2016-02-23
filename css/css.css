@@ -76,4 +76,5 @@ nav li{
 
 #jokes {
     display: inline;
+    clear: both;
 }
