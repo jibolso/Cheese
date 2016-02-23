@@ -3,8 +3,10 @@ body{
     margin: 0px auto;
 }
 
+
 header{
     margin-top: 2em;
+    clear: right;
 }
 
 header h1{
@@ -61,4 +63,17 @@ footer {
     padding: 2px 2px 2px 2px;
     text-align: center;
     clear: both;
+}
+
+nav li{
+    width: 20%;
+    float: left;
+    border-style: double;
+    position: relative;
+    top: -90px;
+
+}
+
+#jokes {
+    display: inline;
 }
