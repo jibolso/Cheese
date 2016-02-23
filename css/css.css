@@ -28,7 +28,7 @@ nav ul li a{
 }
 
 nav ul li{
-    width: 23%;
+    width: 15%;
     height: auto;
     list-style: none;
     float: left;
@@ -66,7 +66,7 @@ footer {
 }
 
 nav li{
-    width: 10%;
+    width: 20%;
     float: left;
     border-style: double;
     position: relative;
